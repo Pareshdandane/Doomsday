@@ -1,0 +1,1 @@
+This algorithm find out Day of the Week for any date. feel free to change code and make more simpler and  efficient to uderstand algorithm use this youtube link https://www.youtube.com/watch?v=714LTMNJy5M.
